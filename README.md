@@ -9,7 +9,7 @@
 
 ---
 
-> **Live Deployment:** [View on Hugging Face Spaces](#) *(Add your Hugging Face space link here)*
+> **Live Deployment:** [View on Hugging Face Spaces](#) *(https://rupesh002-shl-assessment-recommender.hf.space/docs)*
 
 ## 📖 Overview
 This project is a conversational AI agent designed to help users navigate, discover, and compare various SHL assessments. Powered by a **Custom Hybrid Retrieval Engine (FAISS + BM25)** and **Google's Gemini LLM**, it acts as a smart, highly reliable microservice.
